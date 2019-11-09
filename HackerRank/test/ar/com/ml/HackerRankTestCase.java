@@ -18,7 +18,7 @@ public class HackerRankTestCase {
 	}
 
 	/**
-	* Agregando un javadoc a este test... sisi todo bien che
+	* Agregando un javadoc a este test...
 	*/
 	public void test1() {
         int[] lengths = new int[]{5, 4, 4, 2, 2, 8};
